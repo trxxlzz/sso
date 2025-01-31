@@ -1,6 +1,6 @@
 module sso
 
-go 1.23.4
+go 1.23
 
 require (
 	github.com/ilyakaznacheev/cleanenv v1.5.0
